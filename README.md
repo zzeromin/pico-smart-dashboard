@@ -54,4 +54,6 @@ while True:
 * Thonny 우측 하단을 클릭해서 반드시 Local Python 3 모드로 변신시킵니다!
 * 코드의 10번째 줄 PORT = 'COM3' 부분을 내 화면에 떠 있는 고유의 포트 번호(예: COM4, COM5 등)로 수정하여 [내 컴퓨터(This Computer)]에 dashboard.py로 저장하고 실행하세요.
 
-![결과화면](dashboard.png)
+<p align="center">
+  <img src="dashboard.png" width="40%">
+</p>
