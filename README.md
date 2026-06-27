@@ -47,3 +47,11 @@ while True:
         print("0,0") 
         
     time.sleep(2)
+```
+
+### 💻 2단계: PC 대시보드 GUI 코드 (`dashboard.py`)
+* Thonny에서 [File] ➡️ [New]를 눌러 완전히 깨끗한 새 창을 만드세요.
+* Thonny 우측 하단을 클릭해서 반드시 Local Python 3 모드로 변신시킵니다!
+* 코드의 10번째 줄 PORT = 'COM3' 부분을 내 화면에 떠 있는 고유의 포트 번호(예: COM4, COM5 등)로 수정하여 [내 컴퓨터(This Computer)]에 dashboard.py로 저장하고 실행하세요.
+
+![결과화면](dashboard.png)
